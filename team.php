@@ -220,7 +220,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">Riki Jeniper</h5>
-                        <p class="card-text">Software Engineer</p>
+                        <p class="card-text">Associate Software Engineer</p>
                         <a href="/detail/bayu.php" class="btn btn-primary stretched-link">Detail</a>
                     </div>
                 </div>
